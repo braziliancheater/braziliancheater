@@ -1,6 +1,6 @@
 ### 𝕭𝕽𝕬𝖅𝕴𝕷𝕴𝕬𝕹𝕲𝕺𝕺𝕯𝕾
 
-repo on which i will post old code. mainly minecraft
+profile on which i will post old code. mainly minecraft
 
 <!--
 **braziliancheater/braziliancheater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
