@@ -1,6 +1,6 @@
 ### brazilian
 
-made everything minecraft related private. :(
+brazilian on top 🗡
 
 <!--
 **braziliancheater/braziliancheater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
